@@ -1,7 +1,31 @@
 .header{
   font-size: 45px;
-  background-color: yellow;
+  background-image: url(/home/david/Documents/ping-pong/images/Ping-Pong-HD-Wallpaper-08929.jpg);
   font-family: cursive;
+  text-align: center;
+padding: 25px;
 
-  
+}
+
+.instructions{
+  background-image: url(../images/h.jpg);
+  padding-right:60px;
+  margin-right: 1000px;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.instructions h2{
+  font-size: 35px;
+  font-family: cursive;
+}
+
+.instructions p{
+  font-size: 35px;
+  font-family: cursive;
+}
+
+body{
+  background-image: url(../images/);
 }
