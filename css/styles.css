@@ -34,10 +34,10 @@ padding: 200px;
   text-decoration: underline;
 }
 
-.instructions p{
+.instructions p1{
   font-size: 35px;
   font-family: cursive;
-  color: purple;
+  color: black;
 }
 
 body{
