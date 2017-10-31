@@ -43,8 +43,7 @@ background-color: grey;
 }
 
 #main ol{
-  font-size: 35px;
-  text-decoration: overline;
+  font-size: 25px;
     font-family:monospace;
 }
 
@@ -57,4 +56,8 @@ background-color: grey;
 .container{
   display: flex;
   flex-direction: row;
+}
+
+.form{
+  background-color: black;
 }

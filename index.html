@@ -29,8 +29,24 @@
               <li>Numbers divisible by 5 become "pong"</li>
               <li>Numbers divisible by 15 become "pingpong"</li>
             </ol>
-          </div>
+
+
         </div>
-      </div>
+
+
+      <div class="form">
+         <div class="col-md-6">
+           <form id="pong-number">
+           <div class="form-group">
+             <label for="pingpong">Enter your number: </label>
+             <input type="text" id="ping-pong">
+           </div>
+
+           <button type="submit" class="btn btn-default" onclick="test($('#ping-pong').val())">Find out!</button>
+         </form>
+       </div>
+     </div>
+   </div>
+</div>
 </body>
 </html>
