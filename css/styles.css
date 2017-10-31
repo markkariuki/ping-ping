@@ -1,16 +1,23 @@
 .header{
-  font-size: 45px;
-  background-image: url(/home/david/Documents/ping-pong/images/Ping-Pong-HD-Wallpaper-08929.jpg);
+  font-size: 60px;
+background-color: grey;
   font-family: cursive;
   text-align: center;
-padding: 25px;
+padding: 200px;
 
+}
+
+.jumbotron {
+  box-shadow: 1px 1px 1px #888888;
+  font-family: 'Bree Serif', serif;
 }
 
 #instructions{
   background-repeat: no-repeat;
   background-size: cover;
-display: block;
+  margin-left: 17px;
+  background-color: darkgreen;
+  min-height: 100vh;
 
 }
 
@@ -26,4 +33,8 @@ display: block;
 
 body{
 background-color: grey;
+}
+
+#main{
+  background-color: pink;
 }
