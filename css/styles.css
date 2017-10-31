@@ -24,6 +24,9 @@ padding: 200px;
 #instructions h2{
   font-size: 35px;
   font-family: cursive;
+  color:white;
+  text-decoration: overline;
+  text-decoration: underline;
 }
 
 #instructions p{
@@ -37,4 +40,9 @@ background-color: grey;
 
 #main{
   background-color: pink;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
 }
