@@ -42,6 +42,18 @@ background-color: grey;
   background-color: pink;
 }
 
+#main ol{
+  font-size: 35px;
+  text-decoration: overline;
+    font-family:monospace;
+}
+
+#main h4{
+  font-size: 45px;
+  text-decoration: underline;
+    font-family: cursive;
+}
+
 .container{
   display: flex;
   flex-direction: row;
