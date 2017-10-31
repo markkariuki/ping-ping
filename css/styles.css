@@ -1,7 +1,7 @@
 .header{
   font-size: 45px;
-background-color: grey;
-  font-family: cursive;
+background-image: url(../images/samuel-zeller-158996.jpg);
+ font-family: cursive;
   font-style: italic;
   font-weight: bold;
   text-align: center;
@@ -18,16 +18,15 @@ padding: 200px;
   font-family: 'Bree Serif', serif;
 }
 
-#instructions{
-  background-repeat: no-repeat;
-  background-size: cover;
+.instructions{
+  background-image: url(../images/y.jpg);
   margin-left: 17px;
   background-color: darkgreen;
   min-height: 100vh;
-width: 100%;
+  width: 100%;
 }
 
-#instructions h2{
+.instructions h2{
   font-size: 35px;
   font-family: cursive;
   color:white;
@@ -35,9 +34,10 @@ width: 100%;
   text-decoration: underline;
 }
 
-#instructions p{
+.instructions p{
   font-size: 35px;
   font-family: cursive;
+  color: purple;
 }
 
 body{
@@ -46,6 +46,7 @@ background-color: grey;
 
 #main{
   background-color: pink;
+  width: 100%;
 }
 
 #main ol{
