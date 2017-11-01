@@ -38,7 +38,6 @@ alert("Welcome to Ping-Pong!!")
     });
     $("#results").append("</ul>");
 
-    $("#results").slideIn();
   });
 
 });
